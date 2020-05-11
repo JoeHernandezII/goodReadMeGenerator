@@ -4,6 +4,8 @@ function generateMarkdown(data) {
 
 # ${data.description}
 
+[![Generic badge](https://img.shields.io/badge/<Viewed>-<0>-<Blue>.svg)](https://shields.io/)
+
 #Table of Contents
 - Installation
 - Usage
@@ -29,8 +31,8 @@ ${data.contributin}
 To run tests, run the following command:
 ${data.test}
 
-#Questions
-<img width="150" src="${data.avatar_url}">
+#Questions '\n'
+<img width="150" src="${data.avatar_url}"> '\n'
 If you have any questions about the repo, please contact ${data.name} at ${data.email}.
 `;
 }
