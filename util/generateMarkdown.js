@@ -31,8 +31,8 @@ ${data.test}
 
 #Questions
 <img width="150" src="${data.avatar_url}">
-If you have any questions about the repo, please contact me at ${data.email}.
+If you have any questions about the repo, please contact ${data.name} at ${data.email}.
 `;
-};
+}
 
 module.exports = generateMarkdown;

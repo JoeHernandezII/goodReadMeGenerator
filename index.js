@@ -56,6 +56,7 @@ async function init(){
         const queryURL = `https://api.github.com/users/${userInput.username}`;
         await axios.get(queryURL).then(({data}) => {
             console.log(data);
+            userInput.name = data.name;
             userInput.avatar_url = data.avatar_url;
             userInput.email = data.email;
           
