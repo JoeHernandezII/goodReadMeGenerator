@@ -6,8 +6,8 @@
 [![Generic badge](https://img.shields.io/badge/<Viewed>-<0>-<Blue>.svg)](https://shields.io/)
 
 -Table of Contents-
-"
-"
+
+
 - Installation
 - Usage
 - License
@@ -16,36 +16,36 @@
 - Questions
 
 -Installation-
-"
-"
+
+
 To install necessary dependencies, run the following command:
 npm i
 
 -Usage-
-"
-"
-To create a README file
+
+
+To create a generic README file
 
 -License-
-"
-"
+
+
 The project is licensed under the MIT.
 
 -Contributin-
-"
-"
-undefined
+
+
+KU Bootcamp lectures and videos
 
 -Test-
-"
-"
+
+
 To run tests, run the following command:
 npm test
 
-#Questions "
+#Questions 
 
-"
-<img width="150" src="https://avatars2.githubusercontent.com/u/61556986?v=4"> "
 
-"
+<img width="150" src="https://avatars2.githubusercontent.com/u/61556986?v=4"> 
+
+
 If you have any questions about the repo, please contact Joe Hernandez at null.

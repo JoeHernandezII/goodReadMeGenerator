@@ -30,7 +30,7 @@ The project is licensed under the ${data.license}.
 
 -Contributin-
 \n
-${data.contributin}
+${data.contributing}
 
 -Test-
 \n
