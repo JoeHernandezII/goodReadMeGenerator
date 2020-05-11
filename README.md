@@ -15,26 +15,41 @@
 - Tests
 - Questions
 
+
+
+
 -Installation-
 
 
 To install necessary dependencies, run the following command:
 npm i
 
+
+
+
 -Usage-
 
 
 To create a generic README file
+
+
+
 
 -License-
 
 
 The project is licensed under the MIT.
 
--Contributin-
+
+
+
+-Contributing-
 
 
 KU Bootcamp lectures and videos
+
+
+
 
 -Test-
 
@@ -42,10 +57,13 @@ KU Bootcamp lectures and videos
 To run tests, run the following command:
 npm test
 
-#Questions 
 
 
-<img width="150" src="https://avatars2.githubusercontent.com/u/61556986?v=4"> 
+
+-Questions- 
+
+
+<img width="100" src="https://avatars2.githubusercontent.com/u/61556986?v=4"> 
 
 
 If you have any questions about the repo, please contact Joe Hernandez at null.

@@ -14,31 +14,37 @@ function generateMarkdown(data) {
 - Contributing
 - Tests
 - Questions
+\n\n
 
 -Installation-
 \n
 To install necessary dependencies, run the following command:
 ${data.installation}
+\n\n
 
 -Usage-
 \n
 ${data.usage}
+\n\n
 
 -License-
 \n
 The project is licensed under the ${data.license}.
+\n\n
 
--Contributin-
+-Contributing-
 \n
 ${data.contributing}
+\n\n
 
 -Test-
 \n
 To run tests, run the following command:
 ${data.test}
+\n\n
 
-#Questions \n\n
-<img width="150" src="${data.avatar_url}"> \n\n
+-Questions- \n\n
+<img width="100" src="${data.avatar_url}"> \n\n
 If you have any questions about the repo, please contact ${data.name} at ${data.email}.
 `;
 }
