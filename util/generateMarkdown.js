@@ -6,7 +6,8 @@ function generateMarkdown(data) {
 
 [![Generic badge](https://img.shields.io/badge/<Viewed>-<0>-<Blue>.svg)](https://shields.io/)
 
-#Table of Contents
+-Table of Contents-
+"\n"
 - Installation
 - Usage
 - License
@@ -14,25 +15,30 @@ function generateMarkdown(data) {
 - Tests
 - Questions
 
-#Installation
+-Installation-
+"\n"
 To install necessary dependencies, run the following command:
 ${data.installation}
 
-#Usage
+-Usage-
+"\n"
 ${data.usage}
 
-#License
+-License-
+"\n"
 The project is licensed under the ${data.license}.
 
-#Contributin
+-Contributin-
+"\n"
 ${data.contributin}
 
-#Test
+-Test-
+"\n"
 To run tests, run the following command:
 ${data.test}
 
-#Questions '\n'
-<img width="150" src="${data.avatar_url}"> '\n'
+#Questions "\n\n"
+<img width="150" src="${data.avatar_url}"> "\n\n"
 If you have any questions about the repo, please contact ${data.name} at ${data.email}.
 `;
 }

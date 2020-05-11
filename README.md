@@ -1,11 +1,13 @@
 
 # goodReadMeGenerator
 
-# This project allows a user to answer a series of prompts so that it will autofill and create their README file
+# This project allows a user to answer a series of prompts so that it will auto fill and create their README file
 
 [![Generic badge](https://img.shields.io/badge/<Viewed>-<0>-<Blue>.svg)](https://shields.io/)
 
-#Table of Contents
+-Table of Contents-
+"
+"
 - Installation
 - Usage
 - License
@@ -13,25 +15,37 @@
 - Tests
 - Questions
 
-#Installation
+-Installation-
+"
+"
 To install necessary dependencies, run the following command:
 npm i
 
-#Usage
+-Usage-
+"
+"
 To create a README file
 
-#License
+-License-
+"
+"
 The project is licensed under the MIT.
 
-#Contributin
+-Contributin-
+"
+"
 undefined
 
-#Test
+-Test-
+"
+"
 To run tests, run the following command:
 npm test
 
-#Questions '
-'
-<img width="150" src="https://avatars2.githubusercontent.com/u/61556986?v=4"> '
-'
+#Questions "
+
+"
+<img width="150" src="https://avatars2.githubusercontent.com/u/61556986?v=4"> "
+
+"
 If you have any questions about the repo, please contact Joe Hernandez at null.
